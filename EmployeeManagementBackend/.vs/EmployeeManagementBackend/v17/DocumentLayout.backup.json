@@ -1,0 +1,100 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\CODING PROJECTS\\DotnetProject\\EmployeeManagementBackend\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D263322D-B7AB-45D3-8215-516E06C614E1}|..\\Core\\Core.csproj|e:\\coding projects\\dotnetproject\\core\\entities\\performanceentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D263322D-B7AB-45D3-8215-516E06C614E1}|..\\Core\\Core.csproj|e:\\coding projects\\dotnetproject\\core\\entities\\leaveentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D263322D-B7AB-45D3-8215-516E06C614E1}|..\\Core\\Core.csproj|e:\\coding projects\\dotnetproject\\core\\entities\\featureentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D263322D-B7AB-45D3-8215-516E06C614E1}|..\\Core\\Core.csproj|e:\\coding projects\\dotnetproject\\core\\entities\\employeeentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D263322D-B7AB-45D3-8215-516E06C614E1}|..\\Core\\Core.csproj|e:\\coding projects\\dotnetproject\\core\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PerformanceEntity.cs",
+              "DocumentMoniker": "E:\\CODING PROJECTS\\DotnetProject\\Core\\Entities\\PerformanceEntity.cs",
+              "RelativeDocumentMoniker": "..\\Core\\Entities\\PerformanceEntity.cs",
+              "ToolTip": "E:\\CODING PROJECTS\\DotnetProject\\Core\\Entities\\PerformanceEntity.cs",
+              "RelativeToolTip": "..\\Core\\Entities\\PerformanceEntity.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-05T15:36:30.905Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LeaveEntity.cs",
+              "DocumentMoniker": "E:\\CODING PROJECTS\\DotnetProject\\Core\\Entities\\LeaveEntity.cs",
+              "RelativeDocumentMoniker": "..\\Core\\Entities\\LeaveEntity.cs",
+              "ToolTip": "E:\\CODING PROJECTS\\DotnetProject\\Core\\Entities\\LeaveEntity.cs",
+              "RelativeToolTip": "..\\Core\\Entities\\LeaveEntity.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABIAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-05T15:36:08.434Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FeatureEntity.cs",
+              "DocumentMoniker": "E:\\CODING PROJECTS\\DotnetProject\\Core\\Entities\\FeatureEntity.cs",
+              "RelativeDocumentMoniker": "..\\Core\\Entities\\FeatureEntity.cs",
+              "ToolTip": "E:\\CODING PROJECTS\\DotnetProject\\Core\\Entities\\FeatureEntity.cs",
+              "RelativeToolTip": "..\\Core\\Entities\\FeatureEntity.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAwAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-05T15:35:50.683Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EmployeeEntity.cs",
+              "DocumentMoniker": "E:\\CODING PROJECTS\\DotnetProject\\Core\\Entities\\EmployeeEntity.cs",
+              "RelativeDocumentMoniker": "..\\Core\\Entities\\EmployeeEntity.cs",
+              "ToolTip": "E:\\CODING PROJECTS\\DotnetProject\\Core\\Entities\\EmployeeEntity.cs",
+              "RelativeToolTip": "..\\Core\\Entities\\EmployeeEntity.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAA9wA0AAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-05T15:34:01.65Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\CODING PROJECTS\\DotnetProject\\Core\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Core\\Program.cs",
+              "ToolTip": "E:\\CODING PROJECTS\\DotnetProject\\Core\\Program.cs",
+              "RelativeToolTip": "..\\Core\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-05T15:33:32.034Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

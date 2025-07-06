@@ -1,0 +1,436 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\CODING PROJECTS\\DotnetProject\\EmployeeManagementBackend\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D263322D-B7AB-45D3-8215-516E06C614E1}|..\\Core\\Core.csproj|e:\\coding projects\\dotnetproject\\core\\interfaces\\ifeaturerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D263322D-B7AB-45D3-8215-516E06C614E1}|..\\Core\\Core.csproj|e:\\coding projects\\dotnetproject\\core\\enums\\permissions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D263322D-B7AB-45D3-8215-516E06C614E1}|..\\Core\\Core.csproj|e:\\coding projects\\dotnetproject\\core\\interfaces\\iemployeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D263322D-B7AB-45D3-8215-516E06C614E1}|..\\Core\\Core.csproj|e:\\coding projects\\dotnetproject\\core\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98DA9F76-2207-4295-828D-970B84284E75}|..\\Application\\Application.csproj|e:\\coding projects\\dotnetproject\\application\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A014E7EB-17BC-48B0-81F7-2B5A2DFA199F}|..\\Infrastructure\\Infrastructure.csproj|e:\\coding projects\\dotnetproject\\infrastructure\\settings\\jwtsettigs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A014E7EB-17BC-48B0-81F7-2B5A2DFA199F}|..\\Infrastructure\\Infrastructure.csproj|e:\\coding projects\\dotnetproject\\infrastructure\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A014E7EB-17BC-48B0-81F7-2B5A2DFA199F}|..\\Infrastructure\\Infrastructure.csproj|e:\\coding projects\\dotnetproject\\infrastructure\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A014E7EB-17BC-48B0-81F7-2B5A2DFA199F}|..\\Infrastructure\\Infrastructure.csproj|e:\\coding projects\\dotnetproject\\infrastructure\\services\\accesstokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D263322D-B7AB-45D3-8215-516E06C614E1}|..\\Core\\Core.csproj|e:\\coding projects\\dotnetproject\\core\\interfaces\\isalaryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D263322D-B7AB-45D3-8215-516E06C614E1}|..\\Core\\Core.csproj|e:\\coding projects\\dotnetproject\\core\\entities\\salaryentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D263322D-B7AB-45D3-8215-516E06C614E1}|..\\Core\\Core.csproj|e:\\coding projects\\dotnetproject\\core\\entities\\taskentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D263322D-B7AB-45D3-8215-516E06C614E1}|..\\Core\\Core.csproj|e:\\coding projects\\dotnetproject\\core\\interfaces\\itasksrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D263322D-B7AB-45D3-8215-516E06C614E1}|..\\Core\\Core.csproj|e:\\coding projects\\dotnetproject\\core\\interfaces\\irefreshtokenrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D263322D-B7AB-45D3-8215-516E06C614E1}|..\\Core\\Core.csproj|e:\\coding projects\\dotnetproject\\core\\interfaces\\iprojectrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D263322D-B7AB-45D3-8215-516E06C614E1}|..\\Core\\Core.csproj|e:\\coding projects\\dotnetproject\\core\\interfaces\\iperformancerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D263322D-B7AB-45D3-8215-516E06C614E1}|..\\Core\\Core.csproj|e:\\coding projects\\dotnetproject\\core\\interfaces\\ileaverepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D263322D-B7AB-45D3-8215-516E06C614E1}|..\\Core\\Core.csproj|e:\\coding projects\\dotnetproject\\core\\dto\\authenticationresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D263322D-B7AB-45D3-8215-516E06C614E1}|..\\Core\\Core.csproj|e:\\coding projects\\dotnetproject\\core\\dto\\authenticationrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D263322D-B7AB-45D3-8215-516E06C614E1}|..\\Core\\Core.csproj|e:\\coding projects\\dotnetproject\\core\\entities\\refreshtokenentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D263322D-B7AB-45D3-8215-516E06C614E1}|..\\Core\\Core.csproj|e:\\coding projects\\dotnetproject\\core\\entities\\leaveentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D263322D-B7AB-45D3-8215-516E06C614E1}|..\\Core\\Core.csproj|e:\\coding projects\\dotnetproject\\core\\enums\\status.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D263322D-B7AB-45D3-8215-516E06C614E1}|..\\Core\\Core.csproj|e:\\coding projects\\dotnetproject\\core\\entities\\featureentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D263322D-B7AB-45D3-8215-516E06C614E1}|..\\Core\\Core.csproj|e:\\coding projects\\dotnetproject\\core\\entities\\employeeentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D263322D-B7AB-45D3-8215-516E06C614E1}|..\\Core\\Core.csproj|e:\\coding projects\\dotnetproject\\core\\entities\\projectentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D263322D-B7AB-45D3-8215-516E06C614E1}|..\\Core\\Core.csproj|e:\\coding projects\\dotnetproject\\core\\entities\\performanceentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DependencyInjection.cs",
+              "DocumentMoniker": "E:\\CODING PROJECTS\\DotnetProject\\Application\\DependencyInjection.cs",
+              "RelativeDocumentMoniker": "..\\Application\\DependencyInjection.cs",
+              "ToolTip": "E:\\CODING PROJECTS\\DotnetProject\\Application\\DependencyInjection.cs",
+              "RelativeToolTip": "..\\Application\\DependencyInjection.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-06T02:19:36.666Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Jwtsettigs.cs",
+              "DocumentMoniker": "E:\\CODING PROJECTS\\DotnetProject\\Infrastructure\\Settings\\Jwtsettigs.cs",
+              "RelativeDocumentMoniker": "..\\Infrastructure\\Settings\\Jwtsettigs.cs",
+              "ToolTip": "E:\\CODING PROJECTS\\DotnetProject\\Infrastructure\\Settings\\Jwtsettigs.cs",
+              "RelativeToolTip": "..\\Infrastructure\\Settings\\Jwtsettigs.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-06T02:16:05.16Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "E:\\CODING PROJECTS\\DotnetProject\\Infrastructure\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "..\\Infrastructure\\Data\\AppDbContext.cs",
+              "ToolTip": "E:\\CODING PROJECTS\\DotnetProject\\Infrastructure\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "..\\Infrastructure\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAwwBYAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-06T02:06:56.409Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DependencyInjection.cs",
+              "DocumentMoniker": "E:\\CODING PROJECTS\\DotnetProject\\Core\\DependencyInjection.cs",
+              "RelativeDocumentMoniker": "..\\Core\\DependencyInjection.cs",
+              "ToolTip": "E:\\CODING PROJECTS\\DotnetProject\\Core\\DependencyInjection.cs",
+              "RelativeToolTip": "..\\Core\\DependencyInjection.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAQAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-05T15:51:56.188Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IEmployeeRepository.cs",
+              "DocumentMoniker": "E:\\CODING PROJECTS\\DotnetProject\\Core\\Interfaces\\IEmployeeRepository.cs",
+              "RelativeDocumentMoniker": "..\\Core\\Interfaces\\IEmployeeRepository.cs",
+              "ToolTip": "E:\\CODING PROJECTS\\DotnetProject\\Core\\Interfaces\\IEmployeeRepository.cs",
+              "RelativeToolTip": "..\\Core\\Interfaces\\IEmployeeRepository.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-05T15:46:23.197Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "IFeatureRepository.cs",
+              "DocumentMoniker": "E:\\CODING PROJECTS\\DotnetProject\\Core\\Interfaces\\IFeatureRepository.cs",
+              "RelativeDocumentMoniker": "..\\Core\\Interfaces\\IFeatureRepository.cs",
+              "ToolTip": "E:\\CODING PROJECTS\\DotnetProject\\Core\\Interfaces\\IFeatureRepository.cs",
+              "RelativeToolTip": "..\\Core\\Interfaces\\IFeatureRepository.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAgwA4AAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-05T15:49:12.591Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Permissions.cs",
+              "DocumentMoniker": "E:\\CODING PROJECTS\\DotnetProject\\Core\\Enums\\Permissions.cs",
+              "RelativeDocumentMoniker": "..\\Core\\Enums\\Permissions.cs",
+              "ToolTip": "E:\\CODING PROJECTS\\DotnetProject\\Core\\Enums\\Permissions.cs",
+              "RelativeToolTip": "..\\Core\\Enums\\Permissions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAgAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-05T15:39:19.849Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DependencyInjection.cs",
+              "DocumentMoniker": "E:\\CODING PROJECTS\\DotnetProject\\Infrastructure\\DependencyInjection.cs",
+              "RelativeDocumentMoniker": "..\\Infrastructure\\DependencyInjection.cs",
+              "ToolTip": "E:\\CODING PROJECTS\\DotnetProject\\Infrastructure\\DependencyInjection.cs",
+              "RelativeToolTip": "..\\Infrastructure\\DependencyInjection.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-06T02:05:05.705Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AccessTokenService.cs",
+              "DocumentMoniker": "E:\\CODING PROJECTS\\DotnetProject\\Infrastructure\\Services\\AccessTokenService.cs",
+              "RelativeDocumentMoniker": "..\\Infrastructure\\Services\\AccessTokenService.cs",
+              "ToolTip": "E:\\CODING PROJECTS\\DotnetProject\\Infrastructure\\Services\\AccessTokenService.cs",
+              "RelativeToolTip": "..\\Infrastructure\\Services\\AccessTokenService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-06T02:17:23.299Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ITasksRepository.cs",
+              "DocumentMoniker": "E:\\CODING PROJECTS\\DotnetProject\\Core\\Interfaces\\ITasksRepository.cs",
+              "RelativeDocumentMoniker": "..\\Core\\Interfaces\\ITasksRepository.cs",
+              "ToolTip": "E:\\CODING PROJECTS\\DotnetProject\\Core\\Interfaces\\ITasksRepository.cs",
+              "RelativeToolTip": "..\\Core\\Interfaces\\ITasksRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-05T15:51:02.921Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ISalaryRepository.cs",
+              "DocumentMoniker": "E:\\CODING PROJECTS\\DotnetProject\\Core\\Interfaces\\ISalaryRepository.cs",
+              "RelativeDocumentMoniker": "..\\Core\\Interfaces\\ISalaryRepository.cs",
+              "ToolTip": "E:\\CODING PROJECTS\\DotnetProject\\Core\\Interfaces\\ISalaryRepository.cs",
+              "RelativeToolTip": "..\\Core\\Interfaces\\ISalaryRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAgAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-05T15:50:46.009Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IRefreshTokenRepository.cs",
+              "DocumentMoniker": "E:\\CODING PROJECTS\\DotnetProject\\Core\\Interfaces\\IRefreshTokenRepository.cs",
+              "RelativeDocumentMoniker": "..\\Core\\Interfaces\\IRefreshTokenRepository.cs",
+              "ToolTip": "E:\\CODING PROJECTS\\DotnetProject\\Core\\Interfaces\\IRefreshTokenRepository.cs",
+              "RelativeToolTip": "..\\Core\\Interfaces\\IRefreshTokenRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-05T15:50:35.107Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "SalaryEntity.cs",
+              "DocumentMoniker": "E:\\CODING PROJECTS\\DotnetProject\\Core\\Entities\\SalaryEntity.cs",
+              "RelativeDocumentMoniker": "..\\Core\\Entities\\SalaryEntity.cs",
+              "ToolTip": "E:\\CODING PROJECTS\\DotnetProject\\Core\\Entities\\SalaryEntity.cs",
+              "RelativeToolTip": "..\\Core\\Entities\\SalaryEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAkAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-05T15:38:09.747Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IProjectRepository.cs",
+              "DocumentMoniker": "E:\\CODING PROJECTS\\DotnetProject\\Core\\Interfaces\\IProjectRepository.cs",
+              "RelativeDocumentMoniker": "..\\Core\\Interfaces\\IProjectRepository.cs",
+              "ToolTip": "E:\\CODING PROJECTS\\DotnetProject\\Core\\Interfaces\\IProjectRepository.cs",
+              "RelativeToolTip": "..\\Core\\Interfaces\\IProjectRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-05T15:50:16.744Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "IPerformanceRepository.cs",
+              "DocumentMoniker": "E:\\CODING PROJECTS\\DotnetProject\\Core\\Interfaces\\IPerformanceRepository.cs",
+              "RelativeDocumentMoniker": "..\\Core\\Interfaces\\IPerformanceRepository.cs",
+              "ToolTip": "E:\\CODING PROJECTS\\DotnetProject\\Core\\Interfaces\\IPerformanceRepository.cs",
+              "RelativeToolTip": "..\\Core\\Interfaces\\IPerformanceRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-05T15:50:08.68Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ILeaveRepository.cs",
+              "DocumentMoniker": "E:\\CODING PROJECTS\\DotnetProject\\Core\\Interfaces\\ILeaveRepository.cs",
+              "RelativeDocumentMoniker": "..\\Core\\Interfaces\\ILeaveRepository.cs",
+              "ToolTip": "E:\\CODING PROJECTS\\DotnetProject\\Core\\Interfaces\\ILeaveRepository.cs",
+              "RelativeToolTip": "..\\Core\\Interfaces\\ILeaveRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-05T15:49:54.002Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "TaskEntity.cs",
+              "DocumentMoniker": "E:\\CODING PROJECTS\\DotnetProject\\Core\\Entities\\TaskEntity.cs",
+              "RelativeDocumentMoniker": "..\\Core\\Entities\\TaskEntity.cs",
+              "ToolTip": "E:\\CODING PROJECTS\\DotnetProject\\Core\\Entities\\TaskEntity.cs",
+              "RelativeToolTip": "..\\Core\\Entities\\TaskEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-05T15:38:24.932Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "AuthenticationResponse.cs",
+              "DocumentMoniker": "E:\\CODING PROJECTS\\DotnetProject\\Core\\DTO\\AuthenticationResponse.cs",
+              "RelativeDocumentMoniker": "..\\Core\\DTO\\AuthenticationResponse.cs",
+              "ToolTip": "E:\\CODING PROJECTS\\DotnetProject\\Core\\DTO\\AuthenticationResponse.cs",
+              "RelativeToolTip": "..\\Core\\DTO\\AuthenticationResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-05T15:44:33.582Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "AuthenticationRequest.cs",
+              "DocumentMoniker": "E:\\CODING PROJECTS\\DotnetProject\\Core\\DTO\\AuthenticationRequest.cs",
+              "RelativeDocumentMoniker": "..\\Core\\DTO\\AuthenticationRequest.cs",
+              "ToolTip": "E:\\CODING PROJECTS\\DotnetProject\\Core\\DTO\\AuthenticationRequest.cs",
+              "RelativeToolTip": "..\\Core\\DTO\\AuthenticationRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-05T15:43:34.89Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Status.cs",
+              "DocumentMoniker": "E:\\CODING PROJECTS\\DotnetProject\\Core\\Enums\\Status.cs",
+              "RelativeDocumentMoniker": "..\\Core\\Enums\\Status.cs",
+              "ToolTip": "E:\\CODING PROJECTS\\DotnetProject\\Core\\Enums\\Status.cs",
+              "RelativeToolTip": "..\\Core\\Enums\\Status.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-05T15:40:00.404Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "RefreshTokenEntity.cs",
+              "DocumentMoniker": "E:\\CODING PROJECTS\\DotnetProject\\Core\\Entities\\RefreshTokenEntity.cs",
+              "RelativeDocumentMoniker": "..\\Core\\Entities\\RefreshTokenEntity.cs",
+              "ToolTip": "E:\\CODING PROJECTS\\DotnetProject\\Core\\Entities\\RefreshTokenEntity.cs",
+              "RelativeToolTip": "..\\Core\\Entities\\RefreshTokenEntity.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAA4AAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-05T15:37:36.935Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "ProjectEntity.cs",
+              "DocumentMoniker": "E:\\CODING PROJECTS\\DotnetProject\\Core\\Entities\\ProjectEntity.cs",
+              "RelativeDocumentMoniker": "..\\Core\\Entities\\ProjectEntity.cs",
+              "ToolTip": "E:\\CODING PROJECTS\\DotnetProject\\Core\\Entities\\ProjectEntity.cs",
+              "RelativeToolTip": "..\\Core\\Entities\\ProjectEntity.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAA8AAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-05T15:37:07.401Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "PerformanceEntity.cs",
+              "DocumentMoniker": "E:\\CODING PROJECTS\\DotnetProject\\Core\\Entities\\PerformanceEntity.cs",
+              "RelativeDocumentMoniker": "..\\Core\\Entities\\PerformanceEntity.cs",
+              "ToolTip": "E:\\CODING PROJECTS\\DotnetProject\\Core\\Entities\\PerformanceEntity.cs",
+              "RelativeToolTip": "..\\Core\\Entities\\PerformanceEntity.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-05T15:36:30.905Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "LeaveEntity.cs",
+              "DocumentMoniker": "E:\\CODING PROJECTS\\DotnetProject\\Core\\Entities\\LeaveEntity.cs",
+              "RelativeDocumentMoniker": "..\\Core\\Entities\\LeaveEntity.cs",
+              "ToolTip": "E:\\CODING PROJECTS\\DotnetProject\\Core\\Entities\\LeaveEntity.cs",
+              "RelativeToolTip": "..\\Core\\Entities\\LeaveEntity.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAAA4AAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-05T15:36:08.434Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "FeatureEntity.cs",
+              "DocumentMoniker": "E:\\CODING PROJECTS\\DotnetProject\\Core\\Entities\\FeatureEntity.cs",
+              "RelativeDocumentMoniker": "..\\Core\\Entities\\FeatureEntity.cs",
+              "ToolTip": "E:\\CODING PROJECTS\\DotnetProject\\Core\\Entities\\FeatureEntity.cs",
+              "RelativeToolTip": "..\\Core\\Entities\\FeatureEntity.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAwAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-05T15:35:50.683Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "EmployeeEntity.cs",
+              "DocumentMoniker": "E:\\CODING PROJECTS\\DotnetProject\\Core\\Entities\\EmployeeEntity.cs",
+              "RelativeDocumentMoniker": "..\\Core\\Entities\\EmployeeEntity.cs",
+              "ToolTip": "E:\\CODING PROJECTS\\DotnetProject\\Core\\Entities\\EmployeeEntity.cs",
+              "RelativeToolTip": "..\\Core\\Entities\\EmployeeEntity.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAnwBMAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-05T15:34:01.65Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
